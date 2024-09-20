@@ -1,0 +1,13 @@
+header{
+    background-color: rgb(8, 8, 8);
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    border-radius: 50cap;
+}
+
+footer{
+    font-weight: bold;
+}
